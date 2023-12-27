@@ -1,0 +1,39 @@
+unit UDir;
+
+interface
+type
+TDir = class
+  public
+  iDir : Integer;
+  Next : TDir;
+  constructor Create(iDir : Integer);
+end;
+TDirs = class
+  public
+  First : TDir;
+  procedure Add(iDir : Integer);
+  constructor Create;
+end;
+implementation
+
+procedure TDirs.Add(iDir: Integer);
+var
+Dir : TDir;
+begin
+Dir := First;
+while not (Dir = nil) do
+Dir := Dir.Next;
+Dir.Next := TDir.Create(iDir);
+end;
+
+constructor TDirs.Create;
+begin
+  First := TDir.Create(1);
+end;
+
+constructor TDir.Create(iDir: Integer);
+begin
+  self.iDir := iDir;
+end;
+
+end.
