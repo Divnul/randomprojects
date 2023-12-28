@@ -9,8 +9,25 @@ Snek is the last version I wrote, and was showed off at Pretoria North Highschoo
 
 CustomChess
 -
-Woohooo! This one is very interesting to work on, but is currently on hiatus until I get back to writing my custom language (Currently writing a WordPress plugin for a friend). Right now, it purely renders graphics for a board and background,
-and supports .bmp and .tga files.
+Woohooo! This one is very interesting to work on, but is currently on hiatus until I get back to writing my custom language for the project (Currently writing a WordPress plugin for a friend). Right now, it purely renders graphics for a board and background, and supports .bmp and .tga files.
+
+PRG182 Project 2
+-
+A project I got 100% for, where I messed around with a bunch of C# abstractions and making a more robust input validator along the way as well.
+
+Random experiments
+-
+-Brainfuck interpreter: I wrote interpreters for Brainfuck in both C and C#
+
+-C Data Structures: When I started messing with C, I wrote typeless code for a stack and a dynamic array data structure
+
+-Expression eval: C code capable of calculating basic arithmetic expressions' values and substituting characters if they're included.
+
+-Graph estimator: Sad remnants of an attempt at a neural network that can approximate a 2D equation's line. Written in Windows Forms with height maps, I believe the calculus is correct, but the AI is finding a stupid strategy for lowering the error score.
+
+-Text based game: Abandoned project where I tried to write a text based game based in a dungeon. Has a funny maze generation algorithm, and some incomplete code for a time, stealth and combat system (not functional right now)
+
+-Tictactoe: A bot written in C that uses Minimax to play perfect tic tac toe.
 
 Lost projects
 -
