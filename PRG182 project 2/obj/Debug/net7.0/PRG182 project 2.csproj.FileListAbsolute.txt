@@ -1,0 +1,15 @@
+C:\Users\Brian\source\repos\PRG182 project 2\bin\Debug\net7.0\PRG182 project 2.exe
+C:\Users\Brian\source\repos\PRG182 project 2\bin\Debug\net7.0\PRG182 project 2.deps.json
+C:\Users\Brian\source\repos\PRG182 project 2\bin\Debug\net7.0\PRG182 project 2.runtimeconfig.json
+C:\Users\Brian\source\repos\PRG182 project 2\bin\Debug\net7.0\PRG182 project 2.dll
+C:\Users\Brian\source\repos\PRG182 project 2\bin\Debug\net7.0\PRG182 project 2.pdb
+C:\Users\Brian\source\repos\PRG182 project 2\obj\Debug\net7.0\PRG182 project 2.csproj.AssemblyReference.cache
+C:\Users\Brian\source\repos\PRG182 project 2\obj\Debug\net7.0\PRG182 project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\source\repos\PRG182 project 2\obj\Debug\net7.0\PRG182 project 2.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\PRG182 project 2\obj\Debug\net7.0\PRG182 project 2.AssemblyInfo.cs
+C:\Users\Brian\source\repos\PRG182 project 2\obj\Debug\net7.0\PRG182 project 2.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\PRG182 project 2\obj\Debug\net7.0\PRG182 project 2.dll
+C:\Users\Brian\source\repos\PRG182 project 2\obj\Debug\net7.0\refint\PRG182 project 2.dll
+C:\Users\Brian\source\repos\PRG182 project 2\obj\Debug\net7.0\PRG182 project 2.pdb
+C:\Users\Brian\source\repos\PRG182 project 2\obj\Debug\net7.0\PRG182 project 2.genruntimeconfig.cache
+C:\Users\Brian\source\repos\PRG182 project 2\obj\Debug\net7.0\ref\PRG182 project 2.dll
