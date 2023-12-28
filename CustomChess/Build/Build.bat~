@@ -1,0 +1,6 @@
+pushd %~dp0\..\Output
+cl ..\main.c user32.lib gdi32.lib
+@echo off
+del *.ilk
+del *.obj
+popd
