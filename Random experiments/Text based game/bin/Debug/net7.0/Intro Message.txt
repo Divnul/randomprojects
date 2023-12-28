@@ -1,0 +1,14 @@
+The world of Thelamar used to be soiled with peace, until the shadows started raiding the villages of the lands.
+They threatened their victims with incredible pains, holding them hostage for all their belongings if they're lucky.
+Not so lucky places were quickly destroyed in consuming waves of darkness and fire.
+You are part of the first generation of defense raised to defend against the cursed shadows that roam the world, now situated in the city of Thomar, a royal capital.
+ 
+You've just ordered drinks at a bar.
+i	"May I ask what your name is, fine traveller?"
+o	"{0}? Alrighty then. The drinks you ordered will cost a coin."
+ 
+I'm not a fancy AI, so you'll need the right keywords for me to know what you're planning on doing.
+Here's a list of trivial commands I don't want you stuck figuring out for 30 minutes:
+-Look around / investigate surroundings / environment : Requests description of what your character can currently see.
+ (Note: Investigate might also be used on objects in the scene)
+-Walk / Run / Go / Head: Use followed by a direction or place descriptor to explore to different areas, for example : Go West or Head North

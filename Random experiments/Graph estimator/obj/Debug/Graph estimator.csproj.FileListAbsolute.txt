@@ -1,0 +1,10 @@
+C:\Users\Brian\source\repos\Graph estimator\bin\Debug\Graph estimator.exe.config
+C:\Users\Brian\source\repos\Graph estimator\bin\Debug\Graph estimator.exe
+C:\Users\Brian\source\repos\Graph estimator\bin\Debug\Graph estimator.pdb
+C:\Users\Brian\source\repos\Graph estimator\obj\Debug\Graph estimator.csproj.AssemblyReference.cache
+C:\Users\Brian\source\repos\Graph estimator\obj\Debug\Graph_estimator.Properties.Resources.resources
+C:\Users\Brian\source\repos\Graph estimator\obj\Debug\Graph estimator.csproj.GenerateResource.cache
+C:\Users\Brian\source\repos\Graph estimator\obj\Debug\Graph estimator.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Graph estimator\obj\Debug\Graph estimator.exe
+C:\Users\Brian\source\repos\Graph estimator\obj\Debug\Graph estimator.pdb
+C:\Users\Brian\source\repos\Graph estimator\obj\Debug\Graph_estimator.Form1.resources

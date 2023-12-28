@@ -1,0 +1,14 @@
+C:\Users\Brian\source\repos\Brainfuck Interpreter\bin\Debug\net7.0\Brainfuck Interpreter.exe
+C:\Users\Brian\source\repos\Brainfuck Interpreter\bin\Debug\net7.0\Brainfuck Interpreter.deps.json
+C:\Users\Brian\source\repos\Brainfuck Interpreter\bin\Debug\net7.0\Brainfuck Interpreter.runtimeconfig.json
+C:\Users\Brian\source\repos\Brainfuck Interpreter\bin\Debug\net7.0\Brainfuck Interpreter.dll
+C:\Users\Brian\source\repos\Brainfuck Interpreter\bin\Debug\net7.0\Brainfuck Interpreter.pdb
+C:\Users\Brian\source\repos\Brainfuck Interpreter\obj\Debug\net7.0\Brainfuck Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\source\repos\Brainfuck Interpreter\obj\Debug\net7.0\Brainfuck Interpreter.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\Brainfuck Interpreter\obj\Debug\net7.0\Brainfuck Interpreter.AssemblyInfo.cs
+C:\Users\Brian\source\repos\Brainfuck Interpreter\obj\Debug\net7.0\Brainfuck Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Brainfuck Interpreter\obj\Debug\net7.0\Brainfuck Interpreter.dll
+C:\Users\Brian\source\repos\Brainfuck Interpreter\obj\Debug\net7.0\refint\Brainfuck Interpreter.dll
+C:\Users\Brian\source\repos\Brainfuck Interpreter\obj\Debug\net7.0\Brainfuck Interpreter.pdb
+C:\Users\Brian\source\repos\Brainfuck Interpreter\obj\Debug\net7.0\Brainfuck Interpreter.genruntimeconfig.cache
+C:\Users\Brian\source\repos\Brainfuck Interpreter\obj\Debug\net7.0\ref\Brainfuck Interpreter.dll

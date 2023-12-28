@@ -1,0 +1,6 @@
+4
+1,2,1,1
+2|outside,door,street/road
+1|inside,door,bar:3|up;road/street:4|down;road/street
+2|down;road/street,south
+2|up;road/street,north
