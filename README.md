@@ -19,6 +19,8 @@ Cryptopal
 -
 I've recently started working through the cryptopal challenges in C. I cleaned up my folder of all the vim files and uploaded the source code I wrote, and to date have been able to solve set 1 tasks 1 - 6. I'm struggling on getting the rest of the set done because I can't get OpenSSL properly installed, but after finishing the first set, I think I'm going to rewrite this with stream .exe and have every task be a .bat file for a simple solution directory.
 
+I gotta warn you though, as the apps were really small I only even thought about freeing memory if it was in a loop.
+
 Random experiments
 -
 -Brainfuck interpreter: I wrote interpreters for Brainfuck in both C and C#
