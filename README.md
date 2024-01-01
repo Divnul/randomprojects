@@ -15,6 +15,10 @@ PRG182 Project 2
 -
 A project I got 100% for, where I messed around with a bunch of C# abstractions and making a more robust input validator along the way as well.
 
+Cryptopal
+-
+I've recently started working through the cryptopal challenges in C. I cleaned up my folder of all the vim files and uploaded the source code I use, and to date have been able to solve set 1 tasks 1 - 6 manually. I'm struggling on getting the rest of the set done because I can't get OpenSSL properly installed, but after finishing the first set, I think I'm going to rewrite this with stream .exe and have every task be a .bat file for a simple solution directory.
+
 Random experiments
 -
 -Brainfuck interpreter: I wrote interpreters for Brainfuck in both C and C#
